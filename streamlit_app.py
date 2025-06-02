@@ -245,7 +245,7 @@ def main():
     st.markdown("""
     <div class="main-header">
         <h1>🏗️ Sistema de Gestión de Construcción</h1>
-        <h2>Icon Bay Torres - Torre 13B</h2>
+        <h2>Icon Bay Torres</h2>
         <p>Gestión Profesional de Proyectos • 94 Hitos • 13 Meses • 1,563.32 m²</p>
     </div>
     """, unsafe_allow_html=True)
